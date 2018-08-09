@@ -1,0 +1,122 @@
+body{
+	background-color: #d1e4ff;
+	margin-top: 0; 
+}
+div{
+	background-color: rgb(255, 255, 255);
+}
+.center {
+	margin-left: auto;
+	margin-right: auto; 
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 980px;
+	padding-top: 75px; 
+}
+.content h1{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 42px;
+}
+.content h2{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 36px;
+}
+.content h3{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+.content h4{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 26px;
+}
+.content h5{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+.content h6{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+}
+.content p{
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.content code{
+background-color: #f0e6d6;
+font-family: monospace;
+font-size: 16px;
+}
+.content samp{
+background-color: #eadcdc;
+
+}
+.content kbd{
+background-color: #eadcea;	
+}
+.content blockquote{
+background-color: #eadcea;
+margin-left: 0;
+margin-right: 0;
+border-left: 4px solid #b496b4;
+padding-left: 32px;
+padding-right: 97px;
+padding-top: 15px;
+padding-bottom: 16px;
+font-family: sans-serif;
+font-size: 16px;
+}
+.content pre{
+background-color: #f0e6d6;
+padding-left: 14px;
+padding-right: 54px;
+padding-top: 13px;
+padding-bottom: 9px;
+font-family: monospace;
+font-size: 16px;
+}
+.content address{
+font-family: sans-serif;
+font-size: 16px;
+}
+.content a{
+color: #2780e3;
+
+}
+.content table{
+	width: 100%;
+	border: 1px solid black;
+	color: #000000;
+	border-collapse: collapse;
+}
+.content td{
+	border: 1px solid black;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.content th{
+border: 1px solid black;
+background-color: #eadcea;	
+font-family: sans-serif;
+font-weight: normal;
+font-size: 16px;
+}
+.content dt{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+}
+.content dd{
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.content li{
+	font-family: sans-serif;
+	font-size: 16px;
+}
